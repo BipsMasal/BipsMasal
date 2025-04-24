@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BipsMasal
 - 👀 I’m interested in playing games,coding.
-- 🌱 I’m currently learning JAVA, PHP.
+- 👀  I’m working as a Quality Assurance.
+- 🌱 I’m currently learning JAVA, PYTHON.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
